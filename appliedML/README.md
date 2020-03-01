@@ -2,7 +2,7 @@
 RIHAD VARIAWA, Data Scientist - helping data do GOOD!
 
 ### Certificates
-<img src="./img/healthcare.png"/>
 
-
-
+<p align="center">
+  <img src="./img/healthcare.png"/>
+</p>
