@@ -1,7 +1,7 @@
 ### Applied Data Science
 RIHAD VARIAWA, Data Scientist - helping data do GOOD!
 
-### Certificates
-<img src="./img/tensflow.png"/>
-
+<p align="center">
+  <img src="./ig/tensflow.png"/>
+</p>
 

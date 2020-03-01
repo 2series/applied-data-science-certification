@@ -1,7 +1,7 @@
 ### Applied Data Science
 RIHAD VARIAWA, Data Scientist - helping data do GOOD!
 
-### Certificates
-<img src="./img/Matplotlib.png"/>
-
+<p align="center">
+  <img src="./ig/Matplotlib.png"/>
+</p>
 

@@ -1,6 +1,6 @@
 ### Applied Data Science
-RIHAD VARIAWA, Data Scientist - Who has fun LEARNING, EXPLORING & GROWING
+RIHAD VARIAWA, Data Scientist - helping data do GOOD!
 
-### Certificates
-<img src="./img/Build_a_Blockchain_&_Cryptocurrency_using_Python.png"/>
-
+<p align="center">
+  <img src="./ig/Build_a_Blockchain_&_Cryptocurrency_using_Python.png"/>
+</p>
