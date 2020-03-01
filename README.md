@@ -1,7 +1,7 @@
 ### Applied Data Science
 RIHAD VARIAWA - helping data do GOOD!
 
-### Certificates
+
 ![](https://media.giphy.com/media/5YgnhiRb5QZFv7PUOC/giphy.gif)
 
 
