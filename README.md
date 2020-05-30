@@ -2,7 +2,7 @@
 RIHAD VARIAWA - helping data do GOOD!
 
 
-![](https://media.giphy.com/media/5YgnhiRb5QZFv7PUOC/giphy.gif)
+![](https://media.giphy.com/media/12Tc6iaKtW8OB2/giphy.gif)
 
 
 ### License
